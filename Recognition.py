@@ -1,12 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
-# @Time: 2020/2/6 下午12:13
-# @Author: Casually
-# @File: Recognition.py
-# @Email: fjkl@vip.qq.com
-# @Software: PyCharm
-
 import cv2
 import numpy as np
 import os
