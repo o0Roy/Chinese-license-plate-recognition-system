@@ -1,5 +1,5 @@
 # Chinese-license-plate-recognition-system
-GUI.py 图形化界面，运行即可。
+GUI.py 图形化界面，运行即可。  
 SVM_Train.py 训练文件  
 # 运行环境
 Python：3.7  
