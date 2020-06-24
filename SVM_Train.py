@@ -1,12 +1,3 @@
-# !/usr/bin/python
-# -*- coding: utf-8 -*-
-
-# @Time: 2020/2/9 下午1:39
-# @Author: Casually
-# @File: SVM_Train.py
-# @Email: fjkl@vip.qq.com
-# @Software: PyCharm
-
 import cv2
 import os
 import numpy as np
